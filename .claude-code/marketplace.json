@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "claude-plugin",
-      "source": "./plugins",
+      "source": "./plugin",
       "description": "Raphkun's lab Claude code plugin"
     }
   ]
