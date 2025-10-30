@@ -1,0 +1,14 @@
+{
+  "name": "raphkunlab-claude-marketplace",
+  "owner": {
+    "name": "Raphkun's lab Team",
+    "email": "raphkun@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-plugin",
+      "source": "./plugins",
+      "description": "Raphkun's lab Claude code plugin"
+    }
+  ]
+}
